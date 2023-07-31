@@ -1,2 +1,2 @@
 # file-converter  
-This a very simple and basic application that converts only word file to pdf file.
+This very simple and basic application converts only Word files to pdf files.
